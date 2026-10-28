@@ -10,5 +10,4 @@ To learn how to create a local repository, make commits, and publish the project
 
 - Repository creation
 - Version tracking
-- Branching and merging
-- Remote repository synchronization
+
